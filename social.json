@@ -1,0 +1,78 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2025-08-06T00:00:00Z",
+
+  "identity": {
+    "handle": "periandev",
+    "display_name": "PerianDev",
+    "full_name": "PerianDevelopment",
+    "tagline": "Making fun games!",
+    "bio": "Hi, I'm Philipp, a self-taught game developer from Germany with a passion for learning and exploring all aspects of game development.",
+    "location": "Germany",
+    "established_year": 2018
+  },
+
+  "branding": {
+    "primary_hex": "#FF382E",
+    "secondary_hex": "#FF382E",
+    "background_hex": "#222222",
+    "text_hex": "#AFBFD2",
+    "gradient_hex": ["#FF382E", "#FF382E"],
+
+    "icon": "",
+    "icon_white": "",
+    "banner": "",
+    "favicon": "",
+    "splash_image": "",
+    "watermark": "",
+
+    "font_primary_url": "",
+    "font_secondary_url": "",
+    "sound_logo_url": ""
+  },
+
+  "links": {
+    "portfolio": "https://periandevelopment.itch.io/",
+    "discord": "https://discord.gg/XVgjQQ2K9f",
+    "github": "https://github.com/PerianDevelopment",
+    "itch_io": "https://periandevelopment.itch.io/"
+  },
+
+  "contact": {
+    "support_email": "",
+    "business_email": "periandevelopment@gmail.com",
+    "presskit_url": "",
+    "faq_url": "",
+    "privacy_policy_url": "privacy.periandevelopment@gmail.com",
+    "terms_url": ""
+  },
+
+  "games": [
+    {
+      "id": "slimebouncer",
+      "name": "Slime Bouncer!",
+      "website": "https://periandevelopment.itch.io/slime-bouncer",
+      "icon_url": "",
+      "banner_url": ""
+    },
+    {
+      "id": "krunkerspinsimulator2",
+      "name": "Krunker Spin Simulator 2",
+      "website": "https://periandevelopment.itch.io/krunker",
+      "icon_url": "",
+      "banner_url": ""
+    },
+    {
+      "id": "jumpingjelly",
+      "name": "Jumping Jelly",
+      "website": "https://periandevelopment.itch.io/jumping-jelly",
+      "icon_url": "",
+      "banner_url": ""
+    }
+  ],
+
+  "misc": {
+    "license": "CC BY 4.0",
+    "usage_notes": "Brand assets are free for fan content with attribution."
+  }
+}
