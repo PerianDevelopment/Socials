@@ -19,9 +19,10 @@
     "text_hex": "#AFBFD2",
     "gradient_hex": ["#FF382E", "#FF382E"],
 
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/PerianDevelopment/Socials/main/Assets/icon.png",
     "icon_white": "",
-    "banner": "",
+    "icon_transparent": "https://raw.githubusercontent.com/PerianDevelopment/Socials/main/Assets/icon_transparent.png",
+    "banner": "https://raw.githubusercontent.com/PerianDevelopment/Socials/main/Assets/banner.png",
     "favicon": "",
     "splash_image": "",
     "watermark": "",
