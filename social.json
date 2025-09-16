@@ -1,6 +1,5 @@
 {
-  "version": "1.0.0",
-  "updated_at": "2025-08-06T00:00:00Z",
+  "version": "1.0.1",
 
   "identity": {
     "handle": "periandev",
@@ -12,24 +11,29 @@
     "established_year": 2018
   },
 
-  "branding": {
+  "colors": {
     "primary_hex": "#FF382E",
     "secondary_hex": "#FF382E",
     "background_hex": "#222222",
     "text_hex": "#AFBFD2",
-    "gradient_hex": ["#FF382E", "#FF382E"],
+    "gradient_hex": ["#FF382E", "#FF382E"]
+  },
 
-    "icon": "https://periandevelopment.github.io/Socials/Assets/icon.png",
-    "icon_white": "",
-    "icon_transparent": "https://periandevelopment.github.io/Socials/Assets/icon_transparent.png",
-    "banner": "https://periandevelopment.github.io/Socials/Assets/banner.png",
-    "favicon": "",
-    "splash_image": "https://periandevelopment.github.io/Socials/Assets/splash.png",
-    "watermark": "",
+  "icons": {
+    "icon": "https://periandevelopment.github.io/Socials/Icons/icon.png",
+    "icon_transparent": "https://periandevelopment.github.io/Socials/Icons/icon_transparent.png",
+    "icon_shape": "https://periandevelopment.github.io/Socials/Icons/icon_shape.png",
+    
+    "icon_text": "https://periandevelopment.github.io/Socials/Icons/icon.png",
+    "icon_text_transparent": "https://periandevelopment.github.io/Socials/Icons/icon_transparent.png",
+    
+    "watermark": "https://periandevelopment.github.io/Socials/Icons/watermark.png"
+  },
 
-    "font_primary_url": "",
-    "font_secondary_url": "",
-    "sound_logo_url": ""
+  "banners": {
+    "banner": "https://periandevelopment.github.io/Socials/Banners/banner_16x9.png",
+    "banner_wide": "https://periandevelopment.github.io/Socials/Banners/banner_2x1.png",
+    "banner_ultrawide": "https://periandevelopment.github.io/Socials/Banners/banner_3x1.png"
   },
 
   "links": {
@@ -52,23 +56,26 @@
     {
       "id": "slimebouncer",
       "name": "Slime Bouncer!",
+      "description": "Destroy a slime Army by boucing on them",
+      "platform": "Mobile",
       "website": "https://periandevelopment.itch.io/slime-bouncer",
-      "icon_url": "",
-      "banner_url": ""
+      "icon_url": "https://img.itch.zone/aW1nLzE5MzkxOTg4LnBuZw==/315x250%23c/18JfK%2F.png"
     },
     {
       "id": "krunkerspinsimulator2",
       "name": "Krunker Spin Simulator 2",
+      "description": "Infinite Wheel of Fortune simulator",
+      "platform": "Browser",
       "website": "https://periandevelopment.itch.io/krunker",
-      "icon_url": "",
-      "banner_url": ""
+      "icon_url": "https://img.itch.zone/aW1nLzIwNDkwNjA3LnBuZw==/315x250%23c/OxB8cK.png"
     },
     {
       "id": "jumpingjelly",
       "name": "Jumping Jelly",
+      "description": "High stakes frog platformer",
+      "platform": "PC",
       "website": "https://periandevelopment.itch.io/jumping-jelly",
-      "icon_url": "",
-      "banner_url": ""
+      "icon_url": "https://img.itch.zone/aW1nLzg5MzU3ODQuZ2lm/347x500/yjUlp3.gif"
     }
   ],
 
