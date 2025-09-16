@@ -19,12 +19,12 @@
     "text_hex": "#AFBFD2",
     "gradient_hex": ["#FF382E", "#FF382E"],
 
-    "icon": "https://raw.githubusercontent.com/PerianDevelopment/Socials/main/Assets/icon.png",
+    "icon": "https://periandevelopment.github.io/Socials/Assets/icon.png",
     "icon_white": "",
-    "icon_transparent": "https://raw.githubusercontent.com/PerianDevelopment/Socials/main/Assets/icon_transparent.png",
-    "banner": "https://raw.githubusercontent.com/PerianDevelopment/Socials/main/Assets/banner.png",
+    "icon_transparent": "https://periandevelopment.github.io/Socials/Assets/icon_transparent.png",
+    "banner": "https://periandevelopment.github.io/Socials/Assets/banner.png",
     "favicon": "",
-    "splash_image": "https://raw.githubusercontent.com/PerianDevelopment/Socials/main/Assets/splash.png",
+    "splash_image": "https://periandevelopment.github.io/Socials/Assets/splash.png",
     "watermark": "",
 
     "font_primary_url": "",
