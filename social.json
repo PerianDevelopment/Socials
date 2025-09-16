@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "2",
 
   "identity": {
     "handle": "periandev",
@@ -31,9 +31,9 @@
   },
 
   "banners": {
-    "banner": "https://periandevelopment.github.io/Socials/Banners/banner_16x9.png",
-    "banner_wide": "https://periandevelopment.github.io/Socials/Banners/banner_2x1.png",
-    "banner_ultrawide": "https://periandevelopment.github.io/Socials/Banners/banner_3x1.png"
+    "16x9": "https://periandevelopment.github.io/Socials/Banners/banner_16x9.png",
+    "2x1": "https://periandevelopment.github.io/Socials/Banners/banner_2x1.png",
+    "3x1": "https://periandevelopment.github.io/Socials/Banners/banner_3x1.png"
   },
 
   "links": {
@@ -56,7 +56,7 @@
     {
       "id": "slimebouncer",
       "name": "Slime Bouncer!",
-      "description": "Destroy a slime Army by boucing on them",
+      "description": "Destroy a slime army by bouncing on them",
       "platform": "Mobile",
       "website": "https://periandevelopment.itch.io/slime-bouncer",
       "icon_url": "https://img.itch.zone/aW1nLzE5MzkxOTg4LnBuZw==/315x250%23c/18JfK%2F.png"
@@ -72,7 +72,7 @@
     {
       "id": "jumpingjelly",
       "name": "Jumping Jelly",
-      "description": "High stakes frog platformer",
+      "description": "High-stakes frog platformer",
       "platform": "PC",
       "website": "https://periandevelopment.itch.io/jumping-jelly",
       "icon_url": "https://img.itch.zone/aW1nLzg5MzU3ODQuZ2lm/347x500/yjUlp3.gif"
